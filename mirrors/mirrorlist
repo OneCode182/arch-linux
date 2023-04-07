@@ -1,0 +1,73 @@
+
+
+# ------------------------------------------------------------ #
+#                                                              #
+# - - - - - - - { ArchLinuxMirrors @OneCode182 } - - - - - - - #
+#                                                              #
+# ------------------------------------------------------------ #
+
+
+
+# - - - - - - - - - - - - { Argentina } - - - - - - - - - - - - 
+Server = https://mirrors.eze.sysarmy.com/archlinux/$repo/os/$arch
+
+Server = http://mirrors.eze.sysarmy.com/archlinux/$repo/os/$arch
+
+
+
+# - - - - - - - - - - - - { Brazil } - - - - - - - - - - - - 
+Server = https://mirror.ufscar.br/archlinux/$repo/os/$arch
+
+Server = http://br.mirror.archlinux-br.org/$repo/os/$arch
+Server = http://archlinux.c3sl.ufpr.br/$repo/os/$arch
+Server = http://mirror.ufscar.br/archlinux/$repo/os/$arch
+Server = http://linorg.usp.br/archlinux/$repo/os/$arch
+
+
+
+# - - - - - - - - - - - - { Canada } - - - - - - - - - - - - 
+#Server = https://mirror2.evolution-host.com/archlinux/$repo/os/$arch
+#Server = https://arch.mirror.winslow.cloud/$repo/os/$arch
+#Server = https://mirror.xenyth.net/archlinux/$repo/os/$arch
+#Server = https://mirror.csclub.uwaterloo.ca/archlinux/$repo/os/$arch
+#Server = https://mirror.quantum5.ca/archlinux/$repo/os/$arch
+#Server = https://mirror.0xem.ma/arch/$repo/os/$arch
+#Server = https://archive-ca.gaab-networks.de/arch/$repo/os/$arch
+#Server = https://mirror.scd31.com/arch/$repo/os/$arch
+
+#Server = http://archive-ca.gaab-networks.de/arch/$repo/os/$arch
+#Server = http://mirror.scd31.com/arch/$repo/os/$arch
+#Server = http://mirror.its.dal.ca/archlinux/$repo/os/$arch
+#Server = http://mirror.xenyth.net/archlinux/$repo/os/$arch
+#Server = http://mirror.quantum5.ca/archlinux/$repo/os/$arch
+#Server = http://archlinux.mirror.rafal.ca/$repo/os/$arch
+#Server = http://mirror.csclub.uwaterloo.ca/archlinux/$repo/os/$arch
+#Server = http://mirror.0xem.ma/arch/$repo/os/$arch
+#Server = http://mirror2.evolution-host.com/archlinux/$repo/os/$arch
+
+
+
+# - - - - - - - - - - - - { Chile } - - - - - - - - - - - - 
+Server = https://mirror.ufro.cl/archlinux/$repo/os/$arch
+Server = https://mirror.anquan.cl/archlinux/$repo/os/$arch
+
+Server = http://mirror.ufro.cl/archlinux/$repo/os/$arch
+Server = http://mirror.anquan.cl/archlinux/$repo/os/$arch
+
+
+
+# - - - - - - - - - - - - { Colombia } - - - - - - - - - - - - 
+Server = https://edgeuno-bog2.mm.fcix.net/archlinux/$repo/os/$arch
+
+Server = http://mirrors.udenar.edu.co/archlinux/$repo/os/$arch
+
+
+
+# - - - - - - - - - - - - { Ecuador } - - - - - - - - - - - - 
+Server = http://mirror.cedia.org.ec/archlinux/$repo/os/$arch
+
+
+
+# - - - - - - - - - - - - { Mexico } - - - - - - - - - - - - 
+Server = https://arch.jsc.mx/$repo/os/$arch
+
